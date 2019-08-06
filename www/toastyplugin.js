@@ -1,4 +1,4 @@
-// Empty constructor
+/*// Empty constructor
 
 function ToastyPlugin() {}
 
@@ -38,4 +38,4 @@ ToastyPlugin.install = function() {
 
 };
 
-cordova.addConstructor(ToastyPlugin.install);
+cordova.addConstructor(ToastyPlugin.install);*/
